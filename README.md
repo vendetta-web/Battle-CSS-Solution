@@ -100,7 +100,6 @@ My solutions for a few Css Battles.
 [Target #139 - Lamp](https://cssbattle.dev/play/139)  
 [Target #140 - Eclipse](https://cssbattle.dev/play/140)
 
-
 ## Battle New One
 [Target #143 - Simple Circle](https://cssbattle.dev/play/143)
 [Target #144 - Long Heart](https://cssbattle.dev/play/144)
