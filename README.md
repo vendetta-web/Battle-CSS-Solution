@@ -99,3 +99,14 @@ My solutions for a few Css Battles.
 [Target #138 - Lotus](https://cssbattle.dev/play/138)  
 [Target #139 - Lamp](https://cssbattle.dev/play/139)  
 [Target #140 - Eclipse](https://cssbattle.dev/play/140)
+
+
+## Battle New One
+[Target #143 - Simple Circle](https://cssbattle.dev/play/143)
+[Target #144 - Long Heart](https://cssbattle.dev/play/144)
+[Target #145 - Spotlight](https://cssbattle.dev/play/145)
+[Target #146 - Streaks](https://cssbattle.dev/play/146)
+[Target #147 - Splash](https://cssbattle.dev/play/147)
+[Target #148 - Eight](https://cssbattle.dev/play/148)
+[Target #149 - Earthworm](https://cssbattle.dev/play/149)
+[Target #150 - Finger Heart](https://cssbattle.dev/play/150)
